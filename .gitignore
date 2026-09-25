@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.h5
+*.npz
+*.npz.index
+*.npz.data-*
+.idea/
+.vscode/

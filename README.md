@@ -2,7 +2,13 @@
 
 Runnable projects for **TinyML on Microcontrollers** by Nader Ilahi.
 
-**Repository:** https://github.com/nillahi/TinMLBook
+**Repository:** https://github.com/nillahi/TinMLBook  
+
+**Public and free** — no password. Book readers: use **Code → Download ZIP**, or:
+
+```bash
+git clone https://github.com/nillahi/TinMLBook.git
+```
 
 This repo contains **code only** (training scripts + firmware sketches).  
 Book LaTeX/PDF sources are not published here.
